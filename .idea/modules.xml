@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_1day.iml" filepath="$PROJECT_DIR$/.idea/python_1day.iml" />
+      <module fileurl="file://E:/函数/.idea/函数.iml" filepath="E:/函数/.idea/函数.iml" />
+      <module fileurl="file://E:/非数据/.idea/非数据.iml" filepath="E:/非数据/.idea/非数据.iml" />
+    </modules>
+  </component>
+</project>
